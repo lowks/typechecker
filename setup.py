@@ -8,6 +8,7 @@ version = '0.1.0'
 setuptools.setup(
     name='typechecker',
     version=typechecker.__version__,
+    description='Dynamic type checking for Python',
     packages=['typechecker'],
     install_requires=[
         ],
